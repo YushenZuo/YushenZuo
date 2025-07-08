@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YushenZuo
-- 👀 Currently a research assistant at The Hong Kong Polytechnic University (PolyU).
+- 👀 Currently a research intern at Texas A&M University (TAMU).
 - 🌱 My research interest contains machine learning and computer vision.
 - 💞️ I’m looking for PhD position.
 - 📫 zuoyushen12@gmail.com
